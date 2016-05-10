@@ -1,0 +1,22 @@
+{
+  "name": "nice_meme_bot",
+  "version": "1.0.0",
+  "description": "RTs your nice memes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yeojoey/nice_meme_bot.git"
+  },
+  "author": "Joey Yeo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yeojoey/nice_meme_bot/issues"
+  },
+  "homepage": "https://github.com/yeojoey/nice_meme_bot#readme",
+  "dependencies": {
+    "twit": "^2.2.4"
+  }
+}
